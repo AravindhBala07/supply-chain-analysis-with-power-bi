@@ -1,4 +1,4 @@
-# Supply-chain-analysis-with-excel
+# Supply-chain-analysis-with-power bi
 
 Supply chain analytics plays a crucial role in driving data-driven decision-making across industries, including manufacturing, retail, healthcare, and logistics. In this report, I presented an analysis of a Fashion and Beauty startup's supply chain data, specifically focused on the movement of makeup products. By collecting, analyzing, and interpreting this dataset, I aim to gain insights that can inform strategic decisions and optimize supply chain operations.
 
